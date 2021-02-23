@@ -1,0 +1,9 @@
+[[libpcap]]
+arch = "x86_64"
+git-tree-sha1 = "5345b170f9c6374976c8a4b6dd86fc4de215fc9d"
+libc = "glibc"
+os = "linux"
+
+    [[libpcap.download]]
+    sha256 = "b48493a7391f1a43e22c7c64bc9883879544f46f545f7ad0d15c94302190cbb6"
+    url = "https://github.com/local/releases/download/libpcap-v1.10.0+0/libpcap.v1.10.0.x86_64-linux-gnu.tar.gz"
